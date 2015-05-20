@@ -2,12 +2,8 @@ package menjacnica.utility;
 
 import java.util.GregorianCalendar;
 import java.util.LinkedList;
-
 import menjacnica.Menjacnica;
 import menjacnica.Valuta;
-
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 

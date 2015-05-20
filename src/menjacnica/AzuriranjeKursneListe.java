@@ -8,10 +8,8 @@ import java.util.LinkedList;
 
 import menjacnica.utility.MenjacnicaUtility;
 import komunikacija.JsonRatesAPIKomunikacija;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
 public class AzuriranjeKursneListe {

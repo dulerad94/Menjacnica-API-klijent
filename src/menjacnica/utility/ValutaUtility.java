@@ -1,9 +1,7 @@
 package menjacnica.utility;
 
 import java.util.LinkedList;
-
 import menjacnica.Valuta;
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 

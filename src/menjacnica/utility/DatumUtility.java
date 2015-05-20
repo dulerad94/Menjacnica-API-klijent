@@ -1,9 +1,8 @@
 package menjacnica.utility;
 
-import java.io.ObjectInputStream.GetField;
+
 import java.util.GregorianCalendar;
 
-import com.google.gson.JsonObject;
 
 public class DatumUtility {
 	public static String pisiDatum(GregorianCalendar datum){
